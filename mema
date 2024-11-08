@@ -1,0 +1,24 @@
+<!-- Header Section -->
+<header style="display: flex; align-items: center; justify-content: space-between; padding: 10px; background-color: #f8f8f8; border-bottom: 1px solid #ddd;">
+    <!-- Logo -->
+    <div style="font-size: 24px; font-weight: bold;">
+        <img src="https://l.top4top.io/p_3234syyld1.png" alt="شعار المتجر" style="height: 40px;">
+    </div>
+
+    <!-- Search Bar -->
+    <div style="flex: 1; margin: 0 15px;">
+        <input type="text" placeholder="ابحث عن المنتجات" style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #ddd;">
+    </div>
+
+    <!-- Icons -->
+    <div style="display: flex; gap: 15px;">
+        <!-- Account Icon -->
+        <a href="/account" title="الحساب">
+            <img src="https://h.top4top.io/p_3234uh54i1.png" alt="حساب" style="height: 24px;">
+        </a>
+        <!-- Cart Icon -->
+        <a href="/cart" title="سلة التسوق">
+            <img src="https://b.top4top.io/p_3234e84601.png" alt="سلة التسوق" style="height: 24px;">
+        </a>
+    </div>
+</header>
